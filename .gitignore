@@ -1,0 +1,18 @@
+# Ignore Jupyter notebooks
+*.ipynb 
+
+# Ignore image files
+*.png 
+*.jpg 
+*.jpeg 
+*.gif 
+*.bmp 
+*.svg 
+
+# Ignore specific folders
+test/
+train/
+
+# Ignore PDF files
+*.pdf
+
